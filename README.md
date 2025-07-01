@@ -13,10 +13,11 @@ This project is a **Vehicle Tracking and Counting System** built using **OpenCV*
 - Displays real-time count overlay on the video
 
 ## 🛠️ Technologies Used
-- **HTML,CSS**
-- **Python** 
-- **OpenCV**
-- **NumPy**
+- **HTML,CSS** as a frontend
+- **Python** as a backend
+- **OpenCV** for image processing
+- **NumPy** for video detecting and counting
+-**MYSQL** as a database
 
 ## 🎯 Prerequisites
 Make sure you have Python installed along with the required libraries:
