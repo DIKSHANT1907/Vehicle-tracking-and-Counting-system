@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle-tracking-and-Counting-system
 
 
@@ -78,3 +79,6 @@ GitHub: ankit-kumarz
 
 
 
+=======
+# Vehicle-tracking-and-Counting-system
+>>>>>>> d39d6e1f5320bff37a74d3ecddfd1f6c93d49535
