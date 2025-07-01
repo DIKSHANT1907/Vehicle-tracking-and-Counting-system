@@ -15,7 +15,7 @@ This project is a **Vehicle Tracking and Counting System** built using **OpenCV*
 - **HTML,CSS** as a frontend
 - **Python** as a backend
 - **OpenCV** for image processing
-- **NumPy** for video detecting and counting
+- **NumPy** for video detecting and counting 
 -**MYSQL** as a database
 
 ## 🎯 Prerequisites
