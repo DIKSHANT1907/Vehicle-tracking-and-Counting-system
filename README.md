@@ -13,6 +13,7 @@ This project is a **Vehicle Tracking and Counting System** built using **OpenCV*
 - Displays real-time count overlay on the video
 
 ## 🛠️ Technologies Used
+- **HTML,CSS**
 - **Python** 
 - **OpenCV**
 - **NumPy**
@@ -27,8 +28,8 @@ pip install opencv-python numpy
 ## 📂 Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ankit1068/vehicle-tracking.git
-   cd vehicle-tracking
+   git clone https://github.com/DIKSHANT1907/Vehicle-tracking-and-Counting-system.git
+   cd Vehicle-tracking-and-Counting-system
    ```
 
 2. **Place your video file in the project directory and rename it as `video.mp4`** (or modify the code to use your filename).
@@ -70,15 +71,9 @@ Feel free to fork this repository and submit a pull request if you have any impr
 ## Contact
 For any questions or feedback, feel free to contact:
 
-Ankit kumar
+Dikshant Joshi
 
-Email: your-ankitrajj1068@gmail.com
+Email: dikshantvj2003@gmail.com
 
-GitHub: ankit-kumarz 
+GitHub: [https://github.com/DIKSHANT1907/]
 
-
-
-
-=======
-# Vehicle-tracking-and-Counting-system
->>>>>>> d39d6e1f5320bff37a74d3ecddfd1f6c93d49535
