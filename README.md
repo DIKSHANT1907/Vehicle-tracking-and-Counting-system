@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vehicle-tracking-and-Counting-system
 
 
@@ -72,7 +71,7 @@ Feel free to fork this repository and submit a pull request if you have any impr
 ## Contact
 For any questions or feedback, feel free to contact:
 
-Dikshant Joshi
+Author:- Dikshant Joshi
 
 Email: dikshantvj2003@gmail.com
 
